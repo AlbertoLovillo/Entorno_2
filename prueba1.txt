@@ -1,8 +1,13 @@
 Alberto
 Hola buenos días
 
-Dalton
+Dalton 
+cambios de Dalton
 
+<<<<<<< HEAD
 
 Borja
 
+=======
+Borja
+>>>>>>> daltonpro
